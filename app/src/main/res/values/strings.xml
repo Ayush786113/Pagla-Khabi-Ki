@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pagla Khabi Ki</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="food_filter">
+        <item>Name</item>
+        <item>First Letter</item>
+        <item>ID</item>
+        <item>Random</item>
+        <item>Main Ingredient</item>
+        <item>Category</item>
+        <item>Area</item>
+    </string-array>
+</resources>
